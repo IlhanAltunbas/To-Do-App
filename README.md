@@ -34,8 +34,9 @@ To run the project locally, follow these steps:
 3. Build the project and run it on an **emulator** or a **physical device**.
 
 ## 📸 Screenshots
-
-(Add screenshots here to showcase the app UI)
+![image](https://github.com/user-attachments/assets/bfe9326a-3098-47c7-992b-0a61c3a6beb8)
+![image](https://github.com/user-attachments/assets/282173ce-1aa8-466a-ac4f-e510e5839737)
+![image](https://github.com/user-attachments/assets/de8e6f1e-f222-4889-b39f-a17d107ad281)
 
 ## 🤝 Contributing
 
